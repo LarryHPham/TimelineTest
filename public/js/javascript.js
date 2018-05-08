@@ -286,7 +286,6 @@ function setReference(data){
             if( val.id < v){
               // if the reference link exists between two nums then don't create another
               if( document.getElementById('link-'+val.id + '-' + v) ){
-                console.log("EXISTS", document.getElementById('link-'+val.id + '-' + v) );
                 return;
               }
 
