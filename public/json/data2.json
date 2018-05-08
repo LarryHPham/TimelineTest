@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Start",
+        "subtitle": null,
+        "color": "red",
+        "backgroundColor": null,
+        "lineColor": null,
+        "icon": null,
+        "judgmentIcon": null,
+        "time": 0,
+        "evaluation": null,
+        "references": []
+    },{
+        "id": 2,
+        "title": "Customer Happy",
+        "subtitle": null,
+        "color": null,
+        "backgroundColor": "green",
+        "lineColor": "green",
+        "icon": "sentimentIconNegative",
+        "judgmentIcon": null,
+        "time": 1,
+        "evaluation": null,
+        "references": []
+    },{
+        "id": 3,
+        "title": "Verification",
+        "subtitle": null,
+        "color": null,
+        "backgroundColor": null,
+        "lineColor": null,
+        "icon": "verificationIcon",
+        "judgmentIcon": null,
+        "time": 76,
+        "evaluation": {
+            "text": "Some question category",
+            "score": null,
+            "maxScore": null,
+            "icon": "checkbox"
+        },
+        "references": []
+    },{
+        "id": 4,
+        "title": "Customer Unhappy",
+        "subtitle": null,
+        "color": null,
+        "backgroundColor": "red",
+        "lineColor": "red",
+        "icon": "sentimentIconNegative",
+        "judgmentIcon": null,
+        "time": 120,
+        "evaluation": null,
+        "references": []
+    },{
+        "id": 5,
+        "title": "Some Other Event",
+        "subtitle": null,
+        "color": "green",
+        "backgroundColor": null,
+        "lineColor": null,
+        "icon": "lockIcon",
+        "judgmentIcon": "success",
+        "time": 121,
+        "evaluation": null,
+        "references": []
+    },{
+        "id": 6,
+        "title": "Resolution",
+        "subtitle": null,
+        "color": null,
+        "backgroundColor": null,
+        "lineColor": null,
+        "icon": "troubleshootIcon",
+        "judgmentIcon": null,
+        "time": 142,
+        "evaluation": null,
+        "references": []
+    },{
+        "id": 7,
+        "title": "End",
+        "subtitle": null,
+        "color": null,
+        "backgroundColor": null,
+        "lineColor": null,
+        "icon": null,
+        "judgmentIcon": null,
+        "time": 160,
+        "evaluation": null,
+        "references": []
+    }
+]
